@@ -5,3 +5,6 @@
 function Login(){
     console.log("로그인");
 }
+function Logout(){
+    console.log("로그아웃");
+}
