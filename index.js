@@ -8,3 +8,6 @@ function Login(){
 function Logout(){
     console.log("로그아웃");
 }
+function Timeout(){
+    console.log("time아웃");
+}
